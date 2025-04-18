@@ -39,6 +39,5 @@ EfficientNet B2 demonstrated the best overall accuracy and is deployed in the we
 
 ---
 
-## 🏗️ Project Structure
 
 
