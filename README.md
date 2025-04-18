@@ -37,6 +37,11 @@ This project explores the use of machine learning — specifically **CNN**, **Ef
 
 EfficientNet B2 demonstrated the best overall accuracy and is deployed in the web app.
 
+## 📂 Dataset Download
+
+You can download the full labeled dataset used for training and evaluation from the link below:
+
+👉 [Click here to download the dataset from Google Drive]([https://drive.google.com/file/d/1AbCDEfgHIjKLmnOPQ/view?usp=sharing](https://drive.google.com/drive/folders/1tHpT4y6gZeY8XKovyYDqbAbzr1jheGOR?usp=sharing))
 ---
 
 
